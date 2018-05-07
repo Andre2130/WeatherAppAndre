@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="check_weather">Check weather</string>
+    <string name="hint_zip_code">Zip Code...</string>
+    <string name="dummy_zip_code">94040,us</string>
+    <string name="openDrawer">Open Drawer</string>
+    <string name="closeDrawer">Close Drawer</string>
+</resources>
